@@ -1,4 +1,4 @@
 # suraj-repository
 This is my first Git Repository.
 <br>
-Author - My name is Suraj Paikaray
+Author - My name is (Suraj Paikaray)
